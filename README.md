@@ -19,7 +19,7 @@ This project simulates a 5-floor elevator system using the AT89C51 microcontroll
 - Circuit Diagram: elevator.png
 
 ## 📂 Files
-- Code: elevator.c
-- keil Project File: elevator.uvproj
+- Code: project.c
+- keil Project File: PROJECT.uvproj
 - Simulation: elevator.pdsprj
-- Header File: elevator.h
+- Header File: lcd.h
